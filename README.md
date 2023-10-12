@@ -17,10 +17,9 @@ I am a student of the bachelor's degree in information systems at UNNE Universit
 
 ---
 
-<!--<details>
-<summary> -->
+
 Languages and Tools🛠:
-<!--</summary> -->
+
   <br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -30,12 +29,11 @@ Languages and Tools🛠:
 <code><img height="20" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<!--</details> -->
 
 ---
 
-<details>
-<summary> Connect with me🤝: </summary>  
+
+Connect with me🤝:
 
 <br/>
 
@@ -65,7 +63,6 @@ Languages and Tools🛠:
 
 <br/>
 
-</details>
 
 ---
 
