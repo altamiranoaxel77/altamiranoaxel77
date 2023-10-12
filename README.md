@@ -1,4 +1,4 @@
-[![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://www.linkedin.com/in/axel-adrian-altamirano-633b4524b/)
+[![ProfileBanner](https://github.com/altamiranoaxel77/altamiranoaxel77/blob/main/banner.png)](https://www.linkedin.com/in/axel-adrian-altamirano-633b4524b/)
 ### About me🧑:
 I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
 I have done Internship as a FullStack Developer as well as Website Tester.<br/>
