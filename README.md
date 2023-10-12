@@ -17,10 +17,10 @@ I am a student of the bachelor's degree in information systems at UNNE Universit
 
 ---
 
-<details>
-<summary>
+<!--<details>
+<summary> -->
 Languages and Tools🛠:
-</summary>
+<!--</summary> -->
   <br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -30,24 +30,7 @@ Languages and Tools🛠:
 <code><img height="20" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-</details>
-
----
-
-<details>
-<summary> Hackathons 💻: </summary>
-  
-<br/>
-
-Def Hacks | Global 2.0  -  [Check out!](https://defhacks.co/hackathons/global_2.0)<br/>
-Octa Hacks 3.0          -  [Check out!](https://octahacks.tech/)<br/>
-HackSRM 3.0             -  [Check out!](https://hacksrm.tech/)<br/>
-UniHack                 -  [Check out!](https://unihack.eu/)<br/>
-NextStep Hacks          -  [Check out!](https://nextstephacks.weebly.com/)<br/>
-Hack With CW            -  [Check out!](https://hackwithcw.tech/)<br/>
-ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
-
-</details>
+<!--</details> -->
 
 ---
 
