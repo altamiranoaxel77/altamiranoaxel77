@@ -7,8 +7,7 @@ I am a student of the bachelor's degree in information systems at UNNE Universit
 
 - 🔭 I am currently in the second year of the degree.
 - 🌱 I’m currently learning IA Development whit Python.
-- 👯 I program with object-oriented programming in Jaba or Python.
-- 😄 Pronouns: He/Him
+- 👯 I program with object-oriented programming in Java and Python.
 - ⚡ Fun fact: I 💖 to code 24x7.
 - 🎢 Profile Visitors Count:  
 ![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
