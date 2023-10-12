@@ -5,9 +5,9 @@ I am a student of the bachelor's degree in information systems at UNNE Universit
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I am currently in the second year of the degree.
-- 🌱 I’m currently learning IA Development whit Python.
-- 👯 I program with object-oriented programming in Java and Python.
+- 👨‍🎓​ I am currently in the second year of the degree.
+- 📚 I’m currently learning IA Development whit Python.
+- 💻​ I program with object-oriented programming in Java and Python.
 - ⚡ Fun fact: I 💖 to code 24x7.
 - 🎢 Profile Visitors Count:  
 ![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
